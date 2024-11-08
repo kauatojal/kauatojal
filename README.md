@@ -2,5 +2,5 @@
 
 
 - 🔭 Atualmente estou estagiando no Detran/SE
-- 🌱 Atualmente estou estudando Front-end
+- 🌱 Estudante e apreciador de Front-end
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
