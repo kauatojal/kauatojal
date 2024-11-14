@@ -47,7 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Kauã%20Tojal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-tojal-702a98299/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauatojal0@gmail.com)
-![GitHub Follow](https://img.shields.io/github/followers/SEU_USERNAME?label=Follow&style=social)
+![GitHub Follow](https://img.shields.io/github/followers/kauatojal?label=Follow&style=social)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
