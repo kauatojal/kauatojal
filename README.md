@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JairoNetoDev&color=006bed)
+
 **Olá! Eu sou o Kauâ Tojal e seja muitíssimo bem vindo(a) ao meu perfil!**
 
 
