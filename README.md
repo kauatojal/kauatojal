@@ -24,5 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-333333?style=flat&logo=intellij-idea)
 
+/br
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauatojal&layout=donut)](https://github.com/kauatojal/github-readme-stats)
