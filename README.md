@@ -23,7 +23,7 @@ Hard Skills
 <br/>
 
 <a href="https://github.com/kauatojal/">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true" />
+  <img color=red height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true" />
 </a>
 <a href="https://github.com/kauatojalv/">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauatojal&layout=compact&langs_count=8&card_width=320" />
