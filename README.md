@@ -40,6 +40,13 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+## Socials
+
+**Where find me:**
+[![Linkedin](https://img.shields.io/badge/-Jairo_Williams_Guedes_Lopes_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauatojal/)](https://www.linkedin.com/in/kauatojal/)
+[![Gmail Badge](https://img.shields.io/badge/-kauatojal0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauatojal0@gmail.com)](mailto:kauatojal0@gmail.com)
+
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauatojal&layout=donut)](https://github.com/kauatojal/github-readme-stats)
