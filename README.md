@@ -16,5 +16,5 @@ Hard Skills
 
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=orange)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring&logoColor=green)
-![Hibernate](https://dwglogo.com/wp-content/uploads/2017/12/1100px_Hibernate_logo_01-768x530.png)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
