@@ -6,6 +6,7 @@
 
 
 - 🔭 Atualmente estou estagiando no Detran/SE
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes, 4° Período.
 - 🌱 Estudante e apreciador de Front-end
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
