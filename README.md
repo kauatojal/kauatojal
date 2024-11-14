@@ -20,11 +20,4 @@ Hard Skills
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/kauatojal/">
-  <img color=red height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true" />
-</a>
-<a href="https://github.com/kauatojalv/">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauatojal&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)
