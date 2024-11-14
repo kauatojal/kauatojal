@@ -6,7 +6,7 @@
 
 
 - 🔭 Atualmente estou estagiando no Detran/SE
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas, 4° Período pela Universidade Tiradentes.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4° Período pela Universidade Tiradentes.
 - 🌱 Estudante e apreciador de Front-end
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
