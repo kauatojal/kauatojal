@@ -9,6 +9,7 @@
 - 🌱 Estudante e apreciador de Front-end
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
+##Skills
 
 **Hard Skills**
 
