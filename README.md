@@ -44,7 +44,7 @@
 ## Socials
 
 **Where find me:**
-[![Linkedin](https://img.shields.io/badge/-Jairo_Williams_Guedes_Lopes_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauatojal/)](https://www.linkedin.com/in/kauatojal/)
+[![Linkedin](https://img.shields.io/badge/-KauãTojal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauatojal/)](https://www.linkedin.com/in/kauatojal/)
 [![Gmail Badge](https://img.shields.io/badge/-kauatojal0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauatojal0@gmail.com)](mailto:kauatojal0@gmail.com)
 
 ## Stats
