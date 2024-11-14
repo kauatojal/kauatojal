@@ -41,6 +41,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauatojal&layout=donut)](https://github.com/kauatojal/github-readme-stats)
+
 ## Socials
 
 **Where find me:**
@@ -48,7 +51,3 @@
 [![LinkedIn](https://img.shields.io/badge/Kauã%20Tojal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-tojal-702a98299/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauatojal0@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/kauatojal?label=Follow&style=social)](https://github.com/kauatojal)
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauatojal&layout=donut)](https://github.com/kauatojal/github-readme-stats)
