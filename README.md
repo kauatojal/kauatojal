@@ -20,6 +20,11 @@ Hard Skills
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kauatojal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/JairoNetoDev/">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true" />
+</a>
+<a href="https://github.com/JairoNetoDev/">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
+</a>
