@@ -33,9 +33,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-
-
-
-
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauatojal&layout=donut)](https://github.com/kauatojal/github-readme-stats)
