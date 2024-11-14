@@ -44,8 +44,10 @@
 ## Socials
 
 **Where find me:**
+
 [![Linkedin](https://img.shields.io/badge/-KauãTojal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauatojal/)](https://www.linkedin.com/in/kauatojal/)
 [![Gmail Badge](https://img.shields.io/badge/-kauatojal0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauatojal0@gmail.com)](mailto:kauatojal0@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/kauatojal?label=follow&style=social)](https://github.com/kauatojak/)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauatojal&show_icons=true&theme=synthwave)    
