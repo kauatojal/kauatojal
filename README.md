@@ -45,7 +45,7 @@
 
 **Where find me:**
 
-[![LinkedIn](https://img.shields.io/badge/Kauã%20Tojal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauatojal)
+[![LinkedIn](https://img.shields.io/badge/Kauã%20Tojal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-tojal-702a98299/)
 [![Gmail Badge](https://img.shields.io/badge/-kauatojal0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauatojal0@gmail.com)](mailto:kauatojal0@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kauatojal?label=follow&style=social)](https://github.com/kauatojak/)
 
