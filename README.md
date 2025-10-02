@@ -5,9 +5,9 @@
 **Olá! Eu sou o Kauâ Tojal e seja muitíssimo bem vindo(a) ao meu perfil!**
 
 
-- 🔭 Atualmente estou estagiando no Detran/SE
+- 🔭 Atualmente estou estagiando na área de Suporte pelo Grupo Tiradentes
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4° Período pela Universidade Tiradentes.
-- 🌱 Estudante e apreciador de Front-end
+- 🌱 Dev Back-end 
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
 ## Skills
