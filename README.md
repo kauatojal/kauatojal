@@ -5,9 +5,9 @@
 **Olá! Eu sou o Kauâ Tojal e seja muitíssimo bem vindo(a) ao meu perfil!**
 
 
-- 🔭 Atualmente estou estagiando na área de Suporte pelo Grupo Tiradentes
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4° Período pela Universidade Tiradentes.
-- 🌱 Dev Back-end 
+- 🔭 Em busca de oportunidade!
+- 🎓 Formado emAnálise e Desenvolvimento de Sistemas pela Universidade Tiradentes.
+- 🌱 Dev Full-Stack
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
 ## Skills
