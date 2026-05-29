@@ -6,7 +6,7 @@
 
 
 - 🔭 Em busca de oportunidade!
-- 🎓 Formado emAnálise e Desenvolvimento de Sistemas pela Universidade Tiradentes.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Tiradentes.
 - 🌱 Dev Full-Stack
 - 🤔 Dicas sempre serâo bem vindas! Sempre buscando crescimento e conhecimento!
 
